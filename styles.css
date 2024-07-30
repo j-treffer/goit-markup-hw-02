@@ -168,7 +168,34 @@ color: #434455;
 /* #endregion team */
 
 /* #region footer */
-
+.footer{
+background-color: #2e2f42;
+}
+.logo-footer{
+font-family: "Raleway", sans-serif;
+font-weight: 700;
+font-size: 18px;
+line-height: 1.16;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4d5ae5;
+}
+.logo-footer-span {
+    color: #f4f4fd;
+}
+.logo-footer-span:hover,
+.logo-footer-span:focus,
+.logo-footer-span:active {
+    color: #404bbf
+}
+.footer-text {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+        color: #f4f4fd;
+}
 
 
 /* #endregion footer */
